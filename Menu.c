@@ -4,15 +4,15 @@
 #include "Ej1.h"
 #include "Ej2.h"
 #include "Ej3.h"
-/*#include "Ej4.h"
+#include "Ej4.h"
 #include "Ej5.h"
 #include "Ej6.h"
 #include "Ej7.h"
-#include "Ej8.h"
+/*#include "Ej8.h"
 #include "Ej9.h"
 #include "Ej10.h"
-#include "Ej11.h"
-#include "Ej12.h"*/
+#include "Ej11.h"*/
+#include "Ej12.h"
 
 
 void ejecutarMenu(){
